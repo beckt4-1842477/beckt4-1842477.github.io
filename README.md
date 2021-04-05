@@ -22,6 +22,6 @@ info 101 stuff
         <br>
         <iframe src="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=software+companies&aq=0&oq=software&sll=47.670993,-122.344752&sspn=0.263556,0.676346&ie=UTF8&hq=software+companies&hnear=&t=m&ll=47.670993,-122.344752&spn=0.263556,0.676346&output=embed"></iframe>
         <br>
-        <img width="750" height="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.seattletimes.com%2Fsports%2Fuw-husky-football%2Freturning-star-players-give-uw-football-team-and-its-fans-some-much-needed-good-news%2F&psig=AOvVaw3fkp27xsm2Ze02Bo3oEQMa&ust=1617744663035000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjDpP-G6O8CFQAAAAAdAAAAABAD"></img>
+        <img width="780" height="558" src="https://static.seattletimes.com/wp-content/uploads/2021/01/150131-2040x1459.jpg"></img>
     </body>
 </html>
